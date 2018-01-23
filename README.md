@@ -1,3 +1,4 @@
+![xpaycoin-logo](https://user-images.githubusercontent.com/35726285/35277640-74f87688-006d-11e8-8390-398a3a2f0ada.png)
 
 XPayCoin development tree
 
